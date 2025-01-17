@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+menu{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+/* Shared style start */
+.dark1{
+    color: #131313;
+}
+
+.dark2{
+    color: #727272;
+}
+.dark3{
+    color: 000000;
+}
+.display-flex{
+    display: flex;
+}
